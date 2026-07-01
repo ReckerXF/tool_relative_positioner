@@ -2,6 +2,7 @@ AddCSLuaFile();
 
 TOOL.Category = "Developers"
 TOOL.Name = "#tool.relative_positioner.name"
+TOOL.Author = "Recker"
 TOOL.Description = "#tool.relative_positioner.description"
 TOOL.Information = {
 	{name = "left", stage = 0, icon = "gui/lmb.png"},
